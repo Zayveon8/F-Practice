@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "i4RK8lWpAlDjbYwPNGKXe0XsIQ/fyW4lEyEGy8zMRW6wkfXx4vpkwplc0pFMkdGJkSGYM8773oVomqmPawR1Mg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Zay'veon Hill\\Desktop\\CSCI350\\source\\Fsharp2intro\\program\\Fsharp2intro.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Zay'veon Hill\\.nuget\\packages\\fsharp.core\\7.0.200\\fsharp.core.7.0.200.nupkg.sha512"
+  ],
+  "logs": []
+}
